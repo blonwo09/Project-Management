@@ -1,0 +1,12 @@
+{
+   "bundle_name": "project_scrum",
+   "icon": "",
+   "icon_color": "#999999",
+   "id": "voy.project_scrum",
+   "page_banner": "",
+   "schema_version": "0",
+   "theme": "",
+   "title": "Project Management (scrum)",
+   "vendor": "voy",
+   "version": "0.1"
+}
