@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "navigator_item_list": {
+      "42fc91d8533b4b16b5d9bb73ac275182": {
+        "bucket": "story",
+        "condition": "[]",
+        "created": "1465666779276",
+        "icon": "",
+        "id": "42fc91d8533b4b16b5d9bb73ac275182",
+        "label": "Stories",
+        "order": "1",
+        "owner": "00000000000000000000000000000000",
+        "parent": "238e0f6470cf4ef79dacc831d1f5f3c6",
+        "schema_version": "0",
+        "sort_by": "priority",
+        "sort_direction": "ascending",
+        "system_updated": "0"
+      }
+    }
+  }
+}

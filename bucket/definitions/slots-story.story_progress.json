@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "story.story_progress": {
+        "attributes": { },
+        "bucket": "story",
+        "created": "1465667674366",
+        "labels": {
+          "en": {
+            "label": "Progress",
+            "labelp": "Progresses"
+          }
+        },
+        "name": "story_progress",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "progress_bar"
+      }
+    }
+  }
+}

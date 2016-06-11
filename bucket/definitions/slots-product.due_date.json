@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "product.due_date": {
+        "attributes": {
+          "format_string": "MM/DD/YYYY"
+        },
+        "bucket": "product",
+        "id": "product.due_date",
+        "labels": {
+          "en": {
+            "labelp": "Due Date",
+            "label": "Due Date"
+          }
+        },
+        "name": "due_date",
+        "type": "date_time"
+      }
+    }
+  }
+}

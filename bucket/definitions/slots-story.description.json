@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "story.description": {
+        "attributes": { },
+        "bucket": "story",
+        "created": "1465666378661",
+        "labels": {
+          "en": {
+            "label": "Description",
+            "labelp": "Description"
+          }
+        },
+        "name": "description",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "big_string"
+      }
+    }
+  }
+}

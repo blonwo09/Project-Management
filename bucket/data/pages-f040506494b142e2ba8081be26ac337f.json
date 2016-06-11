@@ -1,0 +1,54 @@
+{
+  "bucket_data": {
+    "pages": {
+      "f040506494b142e2ba8081be26ac337f": {
+        "created": "1465666748353",
+        "id": "f040506494b142e2ba8081be26ac337f",
+        "layout": {
+          "component_b2ec50b580f011bbae4c43348554afdb": {
+            "type": "component",
+            "component": "image_slider",
+            "id": "component_b2ec50b580f011bbae4c43348554afdb",
+            "name": "component_b2ec50b580f011bbae4c43348554afdb",
+            "needs_subpage_target": false,
+            "attributes": {
+              "_style": ""
+            },
+            "h": "100%",
+            "w": "85%"
+          },
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_f55c7b7a17b4edfb615fa3536c2d71d6",
+              "component_b2ec50b580f011bbae4c43348554afdb"
+            ]
+          },
+          "component_f55c7b7a17b4edfb615fa3536c2d71d6": {
+            "type": "component",
+            "component": "navigator",
+            "id": "component_f55c7b7a17b4edfb615fa3536c2d71d6",
+            "name": "component_f55c7b7a17b4edfb615fa3536c2d71d6",
+            "needs_subpage_target": true,
+            "attributes": {
+              "navigator": "238e0f6470cf4ef79dacc831d1f5f3c6",
+              "name": "Project Mangement",
+              "type": "menu",
+              "_style": ""
+            },
+            "w": "15%",
+            "h": "100%"
+          }
+        },
+        "name": "home",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

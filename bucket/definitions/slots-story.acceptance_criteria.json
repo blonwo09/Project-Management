@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "story.acceptance_criteria": {
+        "attributes": { },
+        "bucket": "story",
+        "created": "1465666413468",
+        "labels": {
+          "en": {
+            "label": "Acceptance Criteria",
+            "labelp": "Acceptance Criterias"
+          }
+        },
+        "name": "acceptance_criteria",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "big_string"
+      }
+    }
+  }
+}

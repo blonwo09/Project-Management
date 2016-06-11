@@ -1,0 +1,48 @@
+{
+  "bucket_data": {
+    "pages": {
+      "1bb67106bbb1461c843d8aa32a3f47f1": {
+        "created": "1465667087426",
+        "id": "1bb67106bbb1461c843d8aa32a3f47f1",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_caf7027270d32d561dfe639dc3b6f79b"
+            ]
+          },
+          "component_caf7027270d32d561dfe639dc3b6f79b": {
+            "type": "component",
+            "component": "details",
+            "id": "component_caf7027270d32d561dfe639dc3b6f79b",
+            "name": "component_caf7027270d32d561dfe639dc3b6f79b",
+            "needs_subpage_target": false,
+            "attributes": {
+              "layout": {
+                "layout": [
+                  "description",
+                  "work_notes"
+                ],
+                "display_rules": [ ]
+              },
+              "bucket": "story",
+              "include_actions": true,
+              "read_only": "false",
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "100%"
+          }
+        },
+        "name": "listdetails.default.story",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

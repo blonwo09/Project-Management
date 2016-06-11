@@ -1,0 +1,78 @@
+{
+  "bucket_data": {
+    "pages": {
+      "30ef6e0d5f144d34a650018f517daad9": {
+        "created": "1465666036071",
+        "id": "30ef6e0d5f144d34a650018f517daad9",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_90149531a8b10b19c9271bcfc4495504",
+              "component_f095f715c487e837ef7ea32c5e204486"
+            ]
+          },
+          "component_90149531a8b10b19c9271bcfc4495504": {
+            "type": "component",
+            "component": "details",
+            "id": "component_90149531a8b10b19c9271bcfc4495504",
+            "name": "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target": false,
+            "attributes": {
+              "read_only": "false",
+              "bucket": "product",
+              "layout": {
+                "layout": [
+                  [
+                    [
+                      "number",
+                      "state"
+                    ],
+                    [
+                      "due_date",
+                      "priority"
+                    ]
+                  ],
+                  "short_description",
+                  "description",
+                  "requirements"
+                ],
+                "display_rules": [ ]
+              },
+              "include_actions": "1",
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "20%"
+          },
+          "component_f095f715c487e837ef7ea32c5e204486": {
+            "type": "component",
+            "component": "related",
+            "id": "component_f095f715c487e837ef7ea32c5e204486",
+            "name": "component_f095f715c487e837ef7ea32c5e204486",
+            "needs_subpage_target": false,
+            "attributes": {
+              "related": [
+                {
+                  "label": "Story (product)",
+                  "value": "story.product"
+                }
+              ],
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "80%"
+          }
+        },
+        "name": "details.default.product",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

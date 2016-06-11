@@ -1,7 +1,7 @@
 {
    "bundle_name": "project_scrum",
-   "icon": "",
-   "icon_color": "#999999",
+   "icon": "code",
+   "icon_color": "#FF6B33",
    "id": "voy.project_scrum",
    "page_banner": "",
    "schema_version": "0",

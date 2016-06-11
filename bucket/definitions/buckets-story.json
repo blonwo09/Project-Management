@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "buckets": {
+      "story": {
+        "attributes": { },
+        "created": "1465666334479",
+        "id": "story",
+        "labels": {
+          "en": {
+            "label": "Story",
+            "labelp": "Stories"
+          }
+        },
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "records"
+      }
+    }
+  }
+}

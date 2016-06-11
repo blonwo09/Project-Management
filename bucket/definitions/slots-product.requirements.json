@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "slots": {
+      "product.requirements": {
+        "attributes": {
+          "placeholder_text": "Please provide high level requirements. They will be broken down into individual stories"
+        },
+        "bucket": "product",
+        "created": "1465666149145",
+        "labels": {
+          "en": {
+            "label": "Requirements",
+            "labelp": "Requirements"
+          }
+        },
+        "name": "requirements",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "big_string"
+      }
+    }
+  }
+}

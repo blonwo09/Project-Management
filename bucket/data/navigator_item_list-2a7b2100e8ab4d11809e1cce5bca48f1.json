@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "navigator_item_list": {
+      "2a7b2100e8ab4d11809e1cce5bca48f1": {
+        "bucket": "product",
+        "condition": "[]",
+        "created": "1465666748320",
+        "icon": "",
+        "id": "2a7b2100e8ab4d11809e1cce5bca48f1",
+        "label": "Product",
+        "order": "0",
+        "owner": "00000000000000000000000000000000",
+        "parent": "238e0f6470cf4ef79dacc831d1f5f3c6",
+        "schema_version": "0",
+        "sort_by": "number",
+        "sort_direction": "ascending",
+        "system_updated": "0"
+      }
+    }
+  }
+}

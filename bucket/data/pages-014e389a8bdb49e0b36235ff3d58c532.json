@@ -1,0 +1,72 @@
+{
+  "bucket_data": {
+    "pages": {
+      "014e389a8bdb49e0b36235ff3d58c532": {
+        "created": "1465666972426",
+        "id": "014e389a8bdb49e0b36235ff3d58c532",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_90149531a8b10b19c9271bcfc4495504"
+            ]
+          },
+          "component_90149531a8b10b19c9271bcfc4495504": {
+            "type": "component",
+            "component": "details",
+            "id": "component_90149531a8b10b19c9271bcfc4495504",
+            "name": "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target": false,
+            "attributes": {
+              "read_only": "false",
+              "bucket": "story",
+              "layout": {
+                "layout": [
+                  [
+                    [
+                      "number"
+                    ],
+                    [
+                      "state"
+                    ]
+                  ],
+                  [
+                    [
+                      "percentage_complete"
+                    ],
+                    [
+                      "priority"
+                    ]
+                  ],
+                  [
+                    [ ],
+                    [
+                      "assigned_to"
+                    ]
+                  ],
+                  "short_description",
+                  "description",
+                  "acceptance_criteria",
+                  "work_notes"
+                ],
+                "display_rules": [ ]
+              },
+              "include_actions": "1",
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "100%"
+          }
+        },
+        "name": "details.default.story",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

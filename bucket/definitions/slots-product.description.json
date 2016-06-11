@@ -1,0 +1,23 @@
+{
+  "bucket_data": {
+    "slots": {
+      "product.description": {
+        "attributes": {
+          "placeholder_text": "Provide high level description for the application"
+        },
+        "bucket": "product",
+        "created": "1465666097031",
+        "id": "product.description",
+        "labels": {
+          "en": {
+            "labelp": "Description",
+            "label": "Description"
+          }
+        },
+        "name": "description",
+        "system_updated": "0",
+        "type": "big_string"
+      }
+    }
+  }
+}

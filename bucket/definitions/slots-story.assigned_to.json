@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "slots": {
+      "story.assigned_to": {
+        "attributes": {
+          "bucket_name": "user"
+        },
+        "bucket": "story",
+        "created": "1465666596031",
+        "labels": {
+          "en": {
+            "label": "Assigned To",
+            "labelp": "Assigned Tos"
+          }
+        },
+        "name": "assigned_to",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "choice"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "bucket_data": {
+    "slots": {
+      "story.state": {
+        "attributes": {
+          "choices": [
+            {
+              "label": "Draft",
+              "value": "Draft"
+            },
+            {
+              "label": "Estimation",
+              "value": "Estimation"
+            },
+            {
+              "label": "Ready",
+              "value": "Ready"
+            },
+            {
+              "label": "Work in Progress",
+              "value": "Work in Progress"
+            },
+            {
+              "label": "Development Complete",
+              "value": "Development Complete"
+            },
+            {
+              "label": "Ready for Testing",
+              "value": "Ready for Testing"
+            },
+            {
+              "label": "Testing Failed",
+              "value": "Testing Failed"
+            },
+            {
+              "label": "Complete",
+              "value": "Complete"
+            },
+            {
+              "label": "Cancelled",
+              "value": "Cancelled"
+            }
+          ],
+          "default": "Draft"
+        },
+        "bucket": "story",
+        "created": "1465666498244",
+        "labels": {
+          "en": {
+            "label": "State",
+            "labelp": "States"
+          }
+        },
+        "name": "state",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "choice"
+      }
+    }
+  }
+}

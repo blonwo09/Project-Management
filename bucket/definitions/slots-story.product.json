@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "slots": {
+      "story.product": {
+        "attributes": {
+          "bucket_name": "product"
+        },
+        "bucket": "story",
+        "created": "1465666674467",
+        "labels": {
+          "en": {
+            "label": "Product",
+            "labelp": "Products"
+          }
+        },
+        "name": "product",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "choice"
+      }
+    }
+  }
+}

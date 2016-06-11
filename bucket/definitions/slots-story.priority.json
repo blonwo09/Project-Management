@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "slots": {
+      "story.priority": {
+        "attributes": {
+          "choices": "[{\"label\":\"Critical\",\"value\":\"Critical\"},{\"label\":\"High\",\"value\":\"High\"},{\"label\":\"Moderate\",\"value\":\"Moderate\"},{\"label\":\"Low\",\"value\":\"Low\"}]",
+          "default": "Low"
+        },
+        "bucket": "story",
+        "created": "1465666559020",
+        "id": "story.priority",
+        "labels": {
+          "en": {
+            "labelp": "Priorities",
+            "label": "Priority"
+          }
+        },
+        "name": "priority",
+        "system_updated": "0",
+        "type": "choice"
+      }
+    }
+  }
+}

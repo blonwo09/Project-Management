@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "slots": {
+      "story.number": {
+        "attributes": {
+          "prefix": "STRY"
+        },
+        "bucket": "story",
+        "created": "1465666353674",
+        "labels": {
+          "en": {
+            "label": "Number",
+            "labelp": "Numbers"
+          }
+        },
+        "name": "number",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "number"
+      }
+    }
+  }
+}

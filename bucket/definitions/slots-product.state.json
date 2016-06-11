@@ -1,0 +1,42 @@
+{
+  "bucket_data": {
+    "slots": {
+      "product.state": {
+        "attributes": {
+          "choices": [
+            {
+              "label": "New",
+              "value": "New"
+            },
+            {
+              "label": "In Progress",
+              "value": "In Progress"
+            },
+            {
+              "label": "On Hold",
+              "value": "On Hold"
+            },
+            {
+              "label": "Completed",
+              "value": "Completed"
+            }
+          ],
+          "default": "New"
+        },
+        "bucket": "product",
+        "created": "1465666198861",
+        "labels": {
+          "en": {
+            "label": "State",
+            "labelp": "State"
+          }
+        },
+        "name": "state",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "choice"
+      }
+    }
+  }
+}

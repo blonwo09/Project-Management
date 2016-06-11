@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "product.priority": {
+        "attributes": {
+          "choices": "[{\"label\":\"High\",\"value\":\"High\"},{\"label\":\"Medium\",\"value\":\"Medium\"},{\"label\":\"Low\",\"value\":\"Low\"}]",
+          "default": "Low"
+        },
+        "bucket": "product",
+        "id": "product.priority",
+        "labels": {
+          "en": {
+            "labelp": "Priorities",
+            "label": "Priority"
+          }
+        },
+        "name": "priority",
+        "type": "choice"
+      }
+    }
+  }
+}
